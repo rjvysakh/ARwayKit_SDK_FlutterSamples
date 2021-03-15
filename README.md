@@ -2,6 +2,10 @@
 
 ARwayKit integration with Flutter.
 
+## Documentation
+
+https://docs.arway.app/arwaykit-with-flutter/introduction
+
 ## How to build?
 
 - Open the Unity project located under **unity/ARwayKit-SDK**.
