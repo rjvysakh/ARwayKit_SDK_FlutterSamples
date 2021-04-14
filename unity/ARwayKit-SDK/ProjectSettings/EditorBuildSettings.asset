@@ -24,9 +24,6 @@ EditorBuildSettings:
     path: Assets/ARWAYSDK/Scenes/NonARCore_Sample/Localization_Non_ARFoundation.unity
     guid: 93576cd3e923b49da9d43cdb2fde1b0e
   - enabled: 0
-    path: Assets/ARWAYSDK/Scenes/MultiMap_LocalizationWS.unity
-    guid: 0b31cd9c07ed3426ca0169eb48a00b82
-  - enabled: 0
     path: Assets/ARWAYSDK/Azure Spatial SDK/Scenes/Basic Demo.unity
     guid: 12b9ca710b12d4043ac1cd0c8c24e54b
   - enabled: 0
